@@ -81,35 +81,19 @@ Comprometida con las buenas prácticas de programación, la arquitectura limpia 
 
 🔗 [Ver repositorio](https://github.com/madelein-milagros/bodeapp)
 
-### API REST - Gestión de Productos
-**Desarrolladora Backend** | *2025*
+###🎓 Sistema de Gestión de Cursos - Spring Security
+Una aplicación web completa desarrollada con Spring Boot 3.5.7 que implementa un sistema de gestión de cursos con autenticación y autorización mediante Spring Security 6.
 
-- Microservicio para gestión de catálogo de productos con autenticación JWT
-- **Tecnologías:** Spring Boot 3, Java 21, MySQL, Spring Security
-- Documentación de endpoints con Swagger/OpenAPI
-
-🔗 [Ver repositorio](#)
+🔗 [Ver repositorio](https://github.com/madelein-milagros/prj-crud-spring-boot-mysql.git)
 
 ### Roadmap Educativo Interactivo
-**Desarrolladora Full Stack** | *2024*
+**Desarrolladora Full Stack** | *2026*
 
 - Plataforma web para visualización de rutas de aprendizaje técnico
 - **Tecnologías:** React, Node.js, MongoDB
 - Diseño responsive y accesible
 
-🔗 [Ver repositorio](#)
-
----
-
-## 📊 Métricas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milagros-ramos&show_icons=true&theme=blue-green&hide_border=true&title_color=ffffff&icon_color=007396)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milagros-ramos&layout=compact&theme=blue-green&hide_border=true&title_color=ffffff)
-
-</div>
+🔗 [Ver repositorio](https://github.com/madelein-milagros/Ciclo-3---Redes.git)
 
 ---
 
